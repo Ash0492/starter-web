@@ -6,7 +6,7 @@ The comparison.
 ##Introduction
 
 This example is to show different parts of the GIT repository and various commnads using a web project.
-This is an examples for rebasing.
+This is an examples for rebasing, Adding an extra line
 
 ##How to contribute
 Please fork this repository and then issue pull requests for review
