@@ -21,4 +21,4 @@ As stated above, the main purpose is to provide simple examples for git training
 Sample website with plenty of files for demos
 
 ##Copyright
-Git.Training
+Git.Training The copyright is reserved by the author
