@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work together.
-The comparison.
+The comparison. Some quick production fix after stash
 
 ##Introduction
 
